@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29709.97
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UltimateIdiot", "UltimateIdiot\UltimateIdiot.csproj", "{EB341E18-85D0-4299-B7D9-93D0B03CC6EC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EB341E18-85D0-4299-B7D9-93D0B03CC6EC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EB341E18-85D0-4299-B7D9-93D0B03CC6EC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EB341E18-85D0-4299-B7D9-93D0B03CC6EC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EB341E18-85D0-4299-B7D9-93D0B03CC6EC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {98CB4C50-1A5C-4C39-8CD7-C85644BBDBD0}
+	EndGlobalSection
+EndGlobal
